@@ -1,0 +1,21 @@
+{
+  "name": "performChat",
+  "talkSleepSecond": 5,
+  "nextTalkSleepSecond": 5,
+  "tokens": [
+    ".YnisVw.E_zPQF3ImeCuRVekz9ItEKiAssM",
+    ".YnisVw.E_zPQF3ImeCuRVekz9ItEKiAssM"
+  ],
+  "channels": [
+    "972314058684514331",
+    "972314058684514332"
+  ],
+  "content": [
+    "兄弟们，开始摸鱼！！！",
+    "必须摸鱼啊",
+    "这项目咋样？？",
+    "看着还行，人挺多的",
+    "那就行，肝起来！",
+    "冲冲冲！！"
+  ]
+}
